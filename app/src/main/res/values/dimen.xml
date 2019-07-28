@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dp_common_margin">10dp</dimen>
+    <dimen name="dp_close_width">24dp</dimen>
+    <dimen name="dp_close_height">24dp</dimen>
+</resources>
